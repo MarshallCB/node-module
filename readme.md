@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/marshallcb/node-module/raw/main/meta/template.png" alt="Template" width="100" />
+  <img src="https://github.com/marshallcb/node-module/raw/main/meta/template.gif" alt="Template" width="100" />
 </div>
 
 <h1 align="center">node-module</h1>
